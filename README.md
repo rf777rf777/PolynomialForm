@@ -1,6 +1,6 @@
 # PolynomialForm 
 
-![image]()
+![image](https://github.com/rf777rf777/PolynomialForm/blob/master/PolynomialForm_picture.png)
 
 ## Synopsis
 
