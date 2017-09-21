@@ -1,6 +1,5 @@
 from tkinter import Frame,Tk,Label,Entry,Button,END
 from sympy import expand
-import sys
 import os
 
 class Window(Frame):
